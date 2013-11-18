@@ -1,0 +1,9 @@
+[MAIL]
+host = smtp.gmail.com
+user = accounts-noreply@playsnail.com
+pass = woniu123
+address = 21451915@qq.com,86521026@qq.com,190418929@qq.com,409619295@qq.com,540223967@qq.com
+
+[REGISTER_URL]
+url = http://www.playsnail.com/platform/register/sign
+args = {'cPassword':'111111','game_id':'25','iDay':'22','iMonth':'2','iYear':'1988','ad_id':'0'}
